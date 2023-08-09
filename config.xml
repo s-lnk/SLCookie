@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>slcookie</name>
+	<displayName><![CDATA[SLCookie]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Cookie Popup for GDPR Cookie Consent]]></description>
+	<author><![CDATA[LINK Company LLC]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
